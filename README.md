@@ -25,9 +25,9 @@ FaaS allow developers to build:
 * Loosely coupled components
 * Efficient architectures
 
-You could think of FaaS as if they were Meeseeks.
+You could think of FaaS as Meeseeks.
 
-![What the hell are Meeseeks? Video explanation](https://www.youtube.com/watch?v=qUYvIAP3qQk)
+[What the hell are Meeseeks? Video explanation](https://www.youtube.com/watch?v=qUYvIAP3qQk)
 
 
 ![](https://i.ytimg.com/vi/qUYvIAP3qQk/maxresdefault.jpg)
