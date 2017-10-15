@@ -27,6 +27,7 @@ FaaS allow developers to build:
 
 You could think of FaaS as if they were Meeseeks.
 
-![](https://i.ytimg.com/vi/qUYvIAP3qQk/maxresdefault.jpg)
+![What the hell are Meeseeks? Video explanation](https://www.youtube.com/watch?v=qUYvIAP3qQk)
 
-![What the hell are Meeseeks?](https://www.youtube.com/watch?v=qUYvIAP3qQk)
+
+![](https://i.ytimg.com/vi/qUYvIAP3qQk/maxresdefault.jpg)
