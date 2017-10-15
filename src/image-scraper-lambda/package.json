@@ -1,0 +1,11 @@
+{
+  "name": "image-scraper-lambda",
+  "version": "0.0.1",
+  "description": "A service to retrieve images from a product page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Liam Raven",
+  "license": "ISC"
+}

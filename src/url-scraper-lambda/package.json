@@ -1,0 +1,11 @@
+{
+  "name": "url-scraper-lambda",
+  "version": "0.0.1",
+  "description": "A service to retrieve the URLs of product pages from a product list page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Liam Raven",
+  "license": "ISC"
+}

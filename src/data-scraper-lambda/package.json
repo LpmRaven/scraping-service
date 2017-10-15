@@ -1,0 +1,11 @@
+{
+  "name": "data-scraper-lambda",
+  "version": "0.0.1",
+  "description": "A service to retrieve data from a product page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Liam Raven",
+  "license": "ISC"
+}
