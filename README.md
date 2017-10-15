@@ -16,7 +16,7 @@ A service to retrieve images from a product page.
 
 # What is Serverless?
 
-The term "Serverless" can be a bit misleading, it does not mean servers are no longer involved but simply that there is no longer a need to manage servers. Instead of managing servers, we use functions-as-a-service (FaaS) such as AWS Lambda or Google Cloud Functions to execute code.
+The term "Serverless" can be a bit misleading, it does not mean servers are no longer involved but simply that there is no longer a need to manage servers. Instead of managing servers, we use function-as-a-service (FaaS) such as AWS Lambda or Google Cloud Functions to execute code.
 
 FaaS allow developers to build:
 
